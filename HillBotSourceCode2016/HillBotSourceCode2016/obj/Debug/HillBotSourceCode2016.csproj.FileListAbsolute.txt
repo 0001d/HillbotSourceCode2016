@@ -1,0 +1,9 @@
+C:\Users\Oik\Documents\0001d\projs\20160916_hillbotSourceCode\Main\HillbotSourceCode2016\HillBotSourceCode2016\HillBotSourceCode2016\bin\Debug\HillBotSourceCode2016.exe.config
+C:\Users\Oik\Documents\0001d\projs\20160916_hillbotSourceCode\Main\HillbotSourceCode2016\HillBotSourceCode2016\HillBotSourceCode2016\bin\Debug\HillBotSourceCode2016.exe
+C:\Users\Oik\Documents\0001d\projs\20160916_hillbotSourceCode\Main\HillbotSourceCode2016\HillBotSourceCode2016\HillBotSourceCode2016\bin\Debug\HillBotSourceCode2016.pdb
+C:\Users\Oik\Documents\0001d\projs\20160916_hillbotSourceCode\Main\HillbotSourceCode2016\HillBotSourceCode2016\HillBotSourceCode2016\obj\Debug\HillBotSourceCode2016.csprojResolveAssemblyReference.cache
+C:\Users\Oik\Documents\0001d\projs\20160916_hillbotSourceCode\Main\HillbotSourceCode2016\HillBotSourceCode2016\HillBotSourceCode2016\obj\Debug\HillBotSourceCode2016.Form1.resources
+C:\Users\Oik\Documents\0001d\projs\20160916_hillbotSourceCode\Main\HillbotSourceCode2016\HillBotSourceCode2016\HillBotSourceCode2016\obj\Debug\HillBotSourceCode2016.Properties.Resources.resources
+C:\Users\Oik\Documents\0001d\projs\20160916_hillbotSourceCode\Main\HillbotSourceCode2016\HillBotSourceCode2016\HillBotSourceCode2016\obj\Debug\HillBotSourceCode2016.csproj.GenerateResource.Cache
+C:\Users\Oik\Documents\0001d\projs\20160916_hillbotSourceCode\Main\HillbotSourceCode2016\HillBotSourceCode2016\HillBotSourceCode2016\obj\Debug\HillBotSourceCode2016.exe
+C:\Users\Oik\Documents\0001d\projs\20160916_hillbotSourceCode\Main\HillbotSourceCode2016\HillBotSourceCode2016\HillBotSourceCode2016\obj\Debug\HillBotSourceCode2016.pdb
